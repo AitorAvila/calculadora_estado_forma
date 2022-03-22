@@ -8,7 +8,7 @@ Además, también podrá saber si…
 2. Su __Frecuencia Cardíaca en Reposo (FCR)__, es adecuada o no a su sexo y edad.
 3. Su nivel de __entrenamiento semanal (ES)__, es adecuado o no a su edad. 
 
-# Indicadores e intervalos utilizados:
+# Indicadores utilizados:
 
 ## 1. Índice masa corporal (IMC)
 ## 2. Frecuencia Cardíaca en Reposo (FCR)
