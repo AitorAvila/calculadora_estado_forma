@@ -14,7 +14,7 @@ Además, también podrá saber si…
 ## 2. Frecuencia Cardíaca en Reposo (FCR)
 ## 3. Entrenamiento semanal (ES)
 
-__Descarge y consulte la plantilla Excel (estado_de_forma.xlsx) para más información.__
+__Descarge y consulte la plantilla Excel "[estado_de_forma.xlsx](https://github.com/AitorAvila/calculadora_estado_forma/blob/cf85d8fbec4142cf24d860124a0063b6b03ac1f7/estado_de_forma.xlsx)" para más información.__
 
 # Información de contacto:
 Aitor Àvila, aitor.avila@urv.cat , Universitat Rovira i Virgili, Spain. 
