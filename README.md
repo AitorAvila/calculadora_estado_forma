@@ -14,7 +14,7 @@ Además, también podrá saber si…
 ## 2. Frecuencia Cardíaca en Reposo (FCR)
 ## 3. Entrenamiento semanal (ES)
 
-__Descarge y consulte la plantilla Excel para más información.__
+__Descarge y consulte la plantilla Excel (estado_de_forma.xlsx) para más información.__
 
 # Información de contacto:
 Aitor Àvila, aitor.avila@urv.cat , Universitat Rovira i Virgili, Spain. 
